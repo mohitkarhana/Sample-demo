@@ -2,7 +2,7 @@ public class mohit()
 {
 void age();
   {
-    System.out.println("24");
+    System.out.println("27");
   }
   void sex();
   {
