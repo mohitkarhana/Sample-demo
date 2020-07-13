@@ -4,6 +4,10 @@ void age();
   {
     System.out.println("20");
   }
+  void sex();
+  {
+    System.out.println("male");
+  }
 void name();
 {
 System.out.println("mohit karhana");
