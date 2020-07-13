@@ -10,3 +10,4 @@ mohit m = new mohit();
 m.name();
 }
 }
+//thanks
